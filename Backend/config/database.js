@@ -8,9 +8,6 @@ const connectDataBase = () => {
     })
     .then((data) => {
       console.log(`mongodb connected with srvr: ${data.connection.host}`);
-    })
-    .catch((err) => {
-      console.log(err);
     });
 };
 
