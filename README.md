@@ -34,8 +34,6 @@
 - Products Pagination (Default 12 Products Per Page)
 - Product Search
 - Product Filters 
-- Shipping Info in Session Storage
-- My Orders
 
 - Admin: Dashboard access to only admin roles
 - Admin: Update Order Status | Delete Order
