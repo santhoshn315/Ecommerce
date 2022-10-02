@@ -1,7 +1,5 @@
-# Shopify
-
-# ECommerce-MERN
-
+# <h1 align="center">Shopify
+# <h2 align="center">E-commerce MERN
 <!---[Visit Now](https://flipkartwebs.herokuapp.com/) 🚀--->
 
 ## 🖥️ Tech Stack
@@ -18,11 +16,11 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
-**Payment Gateway:**
+<!---**Payment Gateway:**
 
 ![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
 
-<!---**Deployed On:**
+**Deployed On:**
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
