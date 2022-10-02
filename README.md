@@ -1,5 +1,5 @@
 # <h1 align="center">Shopify
-# <h2 align="center">E-commerce MERN
+ <h2 align="center">E-commerce MERN
 <!---[Visit Now](https://flipkartwebs.herokuapp.com/) 🚀--->
 
 ## 🖥️ Tech Stack
